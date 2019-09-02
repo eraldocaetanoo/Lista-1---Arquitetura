@@ -3,6 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor., 
  */
+
+
+/*
+EQUIPE:
+        Antonio Eraldo Caetano Martins - 415221
+        Francisco Renato Graciano Freire - 428131
+        João Gabriel Fernandes Gomes - 418270
+*/
+
 package arquitetura;
 
 import java.util.Scanner;
